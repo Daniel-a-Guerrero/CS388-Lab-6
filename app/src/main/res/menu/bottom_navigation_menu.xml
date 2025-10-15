@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/action_favorites"
+        android:id="@+id/nav_parks"
         android:enabled="true"
         android:icon="@drawable/baseline_park_24"
         android:title="Parks" />
     <item
-        android:id="@+id/action_schedules"
+        android:id="@+id/nav_camps"
         android:enabled="true"
         android:icon="@drawable/baseline_campground_24"
         android:title="Camps" />
